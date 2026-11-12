@@ -281,12 +281,6 @@ Through this project, I explored and implemented:
 
 **Nandhini S S**
 
-B.Tech – Artificial Intelligence and Data Science
-
-Interested in Artificial Intelligence, Generative AI, Machine Learning, and Multi-Agent Systems.
-
 ---
 
-⭐ If you find this project interesting, consider giving the repository a star!
 
-**Built with Python, LangGraph, Gemini, Tavily, and Gradio.**
